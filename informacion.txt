@@ -1,0 +1,11 @@
+﻿Este programa es un sistema de reservas para un hotel que permite:
+
+Gestionar clientes: Se pueden agregar nuevos clientes indicando su cédula, nombre, fecha de registro y si son VIP o no. Los clientes VIP reciben un 10% de descuento en sus reservas.
+
+Gestionar reservas: Permite crear reservas especificando la cédula del cliente, la cantidad de días, la fecha de reserva, la fecha de salida y el tipo de habitación (doble, familiar o individual).
+
+Mostrar información: Hay una opción para mostrar la lista de clientes registrados y otra para ver las reservas realizadas con sus precios finales.
+
+El programa incluye un menú interactivo para facilitar su uso.
+
+Desarrollado por Walter Lozano Pelaéz , Sebastian Cardona murillo.
